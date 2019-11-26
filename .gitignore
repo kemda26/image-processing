@@ -1,0 +1,12 @@
+.ipynb_checkpoint
+mnist_data
+sys
+venv
+.vscode
+vnocr_classifier.ipynb
+vnocr_classifier.h5
+crop_images
+recut_images
+mnist_classifier.h5
+mnist_classifier.ipynb
+vietnamese_number.csv

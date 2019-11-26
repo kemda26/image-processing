@@ -1,0 +1,23 @@
+Submit:
+
+group_name/
+    readingMeter.py: with group name in the description
+    list of model files: 
+        model_file1
+        model_file2
+        
+Total size: < 10MB        
+        
+Becareful about python packages:
+
+Python 3.6.7
+Numpy =  1.14.5
+Scipy =  1.2.1
+Opencv =  4.1.1
+Tensorflow =  1.14.0
+Keras =  2.3.0
+pytorch =  1.0.1.post2
+Torch vision =  0.2.2
+Scikit-learn =  0.21.3
+Scikit-image =  0.14.2
+
