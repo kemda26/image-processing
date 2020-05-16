@@ -75,11 +75,11 @@ if __name__=="__main__":
 
     # Run time
     start_time = time.time()
-    # try:
-    # process(input_folder, output_file, data_folder)
-    process_crop(input_folder, output_file, data_folder)
-    #except:
-    #    pass
+    try:
+        process(input_folder, output_file, data_folder)
+#     process_crop(input_folder, output_file, data_folder)
+    except:
+       pass
 
     run_time = time.time() - start_time
     print("Total run_time = ", run_time)
